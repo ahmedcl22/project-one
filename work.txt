@@ -1,1 +1,2 @@
 create page settings
+create page home
